@@ -1,0 +1,20 @@
+Algorithm,Community_ID,Size,Diseases,Symptoms,Modularity,Disease_Sample,Symptom_Sample
+Louvain,0,115,91,24,0.5968481851390729,panic disorder; sick sinus syndrome; atelectasis,shortness of breath; chest tightness; palpitations; irregular heartbeat; breathing fast
+Louvain,9,134,104,30,0.5968481851390729,depression; turner syndrome; poisoning due to ethylene glycol,anxiety and nervousness; depressive or psychotic symptoms; insomnia; abnormal involuntary movements; difficulty speaking
+Louvain,4,141,93,48,0.5968481851390729,vocal cord polyp; cellulitis or abscess of mouth; salivary gland disorder,throat swelling; throat feels tight; hoarse voice; sore throat; difficulty in swallowing
+Louvain,5,161,104,57,0.5968481851390729,cryptorchidism; atrophic vaginitis; vaginitis,symptoms of the scrotum and testes; swelling of scrotum; suprapubic pain; vaginal itching; painful urination
+Louvain,6,191,130,61,0.5968481851390729,fracture of the hand; osteochondrosis; injury to the knee,arm pain; arm stiffness or tightness; hand or finger swelling; hand or finger stiffness or tightness; wrist stiffness or tightness
+Louvain,7,118,80,38,0.5968481851390729,lymphedema; ingrown toe nail; viral warts,abnormal appearing skin; skin growth; lip swelling; irregular appearing scalp; itchy eyelid
+Louvain,2,88,60,28,0.5968481851390729,eye alignment disorder; glaucoma; diabetic retinopathy,eye deviation; double vision; cross-eyed; symptoms of eye; pain in eye
+Louvain,10,107,78,29,0.5968481851390729,headache after lumbar puncture; pyloric stenosis; metabolic disorder,nausea; vomiting; jaundice; sharp abdominal pain; decreased appetite
+Louvain,1,16,15,1,0.5968481851390729,cysticercosis; oral leukoplakia; dislocation of the foot,elbow weakness
+Louvain,3,16,9,7,0.5968481851390729,breast cancer; fibrocystic breast disease; metastatic cancer,pain or soreness of breast; vaginal dryness; lump or mass of breast; bleeding or discharge from nipple; mouth dryness
+Louvain,8,10,9,1,0.5968481851390729,scurvy; vitamin a deficiency; aspergillosis,knee lump or mass
+Leiden,2,155,124,31,N/A,panic disorder; amyloidosis; panic attack,shortness of breath; chest tightness; palpitations; irregular heartbeat; breathing fast
+Leiden,3,150,116,34,N/A,depression; eating disorder; substance-related mental disorder,anxiety and nervousness; depressive or psychotic symptoms; insomnia; abnormal involuntary movements; abusing alcohol
+Leiden,1,189,126,63,N/A,tension headache; fracture of the rib; valley fever,arm pain; arm stiffness or tightness; hand or finger swelling; hand or finger stiffness or tightness; wrist stiffness or tightness
+Leiden,4,149,99,50,N/A,testicular cancer; asthma; chronic obstructive pulmonary disease (copd),throat swelling; throat feels tight; hoarse voice; sore throat; difficulty in swallowing
+Leiden,0,240,161,79,N/A,drug withdrawal; irritable bowel syndrome; cirrhosis,symptoms of the scrotum and testes; swelling of scrotum; suprapubic pain; vaginal itching; painful urination
+Leiden,7,16,9,7,N/A,galactorrhea of unknown cause; mastectomy; breast infection (mastitis),pain or soreness of breast; vaginal dryness; lump or mass of breast; bleeding or discharge from nipple; mouth dryness
+Leiden,5,112,79,33,N/A,abscess of the lung; drug reaction; vasculitis,abnormal appearing skin; skin growth; lip swelling; irregular appearing scalp; itchy eyelid
+Leiden,6,86,59,27,N/A,cryptococcosis; central retinal artery or vein occlusion; migraine,eye deviation; double vision; cross-eyed; symptoms of eye; pain in eye
